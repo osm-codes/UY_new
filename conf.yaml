@@ -31,6 +31,11 @@ afaCode_definition:
   sci_size_max: 11
   log_base: 32nvu
   log_sep: ~
+  intlevel:
+  example_city_isolabel_ext:
+  example_city_intlevel:
+  example_cities_numbers:
+  raster_delta:
 
 srid_official:
   equalarea: 32717
